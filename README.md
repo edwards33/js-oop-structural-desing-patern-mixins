@@ -1,4 +1,4 @@
-## Examples of OOP Mixins (Structural) Design Pattern in JS
+## Example of OOP Mixins (Structural) Design Pattern in JS
 
   Install dependencies:
 
